@@ -1,4 +1,3 @@
-
 public class JSONArrayVariable extends JSONVariable
 {
 	private JSONObject[] value;

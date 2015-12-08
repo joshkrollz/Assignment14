@@ -1,4 +1,3 @@
-
 public class JSONNumberVariable extends JSONVariable
 {
 	private int value;
